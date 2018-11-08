@@ -6,3 +6,4 @@
 4. Collaborative Filtering using Matrix Factorization: https://github.com/yanneta/deep-learning-data-institute/blob/master/lesson2-recommendation.ipynb
 
 5. Feature engineering https://www.kaggle.com/asmitavikas/feature-engineered-0-68310
+6. EDA: https://www.kaggle.com/kunstmord/exploring-the-songs
