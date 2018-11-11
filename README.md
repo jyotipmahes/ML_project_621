@@ -41,3 +41,6 @@ Use following command to run `sh unzip7z.sh`
 
 ### Helper_functions
 The helper function folder has few custom functions created to help with EDA.
+
+### Resources
+Check the resources folder for all relevant resources to refer.
