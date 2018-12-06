@@ -21,7 +21,7 @@ Helper function folder contains files that help with the EDA and modeling of the
 2. summary_fn : This file provides the function required for Data Exploration.
 3. unzip7z.sh : This .sh file could be run to extract the .7z files. 
 
-### Models:
+### Models
 This file contains notebooks of the models we fitted for the recommendations
 1. First_Model_RF_v1 : This was the first model that we built using Random Forest. The accuracy achieved is 65%
 2. LightGBM: We built a light gradient boosting machine and checked the feature importance.The accuracy achieved is 75%
