@@ -44,7 +44,5 @@ Run the `unzip7z.sh` files present in `Helper_functions` to extract the files in
 
 Use following command to run `sh unzip7z.sh`
 
-### Helper_functions
-The helper function folder has few custom functions created to help with EDA.
 
 
